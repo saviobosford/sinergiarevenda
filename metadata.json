@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Acompanhamento Sinergia",
+  "description": "Painel de importação dinâmica e monitoramento logístico de cargas, frotas, KPIs regionais e drill-down operacional via CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
